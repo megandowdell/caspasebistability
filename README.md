@@ -40,7 +40,7 @@ Results will be shown as plots and optionally written to CSV/image files (if ena
 
 Notes:
 
-The parameter set is based on Waldherr et al. and may be adjusted in models.py.
+The parameter set is the modified version of the parameters based on Waldherr et al. and may be adjusted in models.py.
 
 All symbolic computations are handled by SymPy and evaluated numerically using SciPy.
 
